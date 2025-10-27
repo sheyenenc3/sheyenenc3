@@ -9,9 +9,15 @@ Hello, my name is Sheyenen. I've recently earned the Google Advanced Data Analyt
 * Machine learning
 * Predictive modeling
 * Statistical analysis
-* Language: SQL, Python
-* Visualization: Tableau
 
+## :bar_chart: **Projects**
+
+
+## :hammer_and_wrench: **Tools**
+
+
+
+## :handshake: **How to Connect with Me**
   
 
 <!--
