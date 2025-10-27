@@ -1,4 +1,14 @@
-## Hi there 👋
+## My Introduction 👋
+Hello, my name is Sheyenen. I've recently earned the Google Advanced Data Analytics Certificate and this program has equipped me for positions in data analytics and entry-level opportunities in data science. Please see the below skills that I've now acquired:
+
+* Proficiency in analyzing large datasets
+* Applying data-driven techniques
+* Constructing models to uncover insights
+* Machine learning
+* Predictive modeling
+* Statistical analysis
+* Language: SQL, Python
+* Visualization: Tableau
 
 <!--
 **sheyenenc3/sheyenenc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
