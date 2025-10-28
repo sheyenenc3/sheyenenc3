@@ -15,7 +15,7 @@ Hello, my name is Sheyenen. I've recently earned the Google Advanced Data Analyt
 ## :bar_chart: **Projects**
    [Python-Machine-Learning](https://github.com/sheyenenc3/Python-Machine-Learning)
    
-   [EDA-and-Tableau](https://github.com/sheyenenc3/EDA-and-Tableau)
+   [EDA](https://github.com/sheyenenc3/EDA)
 
 
 
