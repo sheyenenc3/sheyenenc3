@@ -18,7 +18,7 @@ Hello, my name is Sheyenen. I've recently earned the Google Advanced Data Analyt
 
 
 ## :handshake: **How to Connect with Me**
-  
+- [www.linkedin.com/in/sheyenencortez]  
 
 <!--
 **sheyenenc3/sheyenenc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
