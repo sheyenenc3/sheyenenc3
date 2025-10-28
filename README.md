@@ -11,7 +11,7 @@ Hello, my name is Sheyenen. I've recently earned the Google Advanced Data Analyt
 * Statistical analysis
 
 ## :bar_chart: **Projects**
-   [sheyenenc3](Python-Machine-Learning)
+   [Python-Machine-Learning](sheyenenc3/Python-Machine-Learning)
 
 ## :hammer_and_wrench: **Tools**
 
