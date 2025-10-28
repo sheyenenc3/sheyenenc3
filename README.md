@@ -12,12 +12,10 @@ Hello, my name is Sheyenen. I've recently earned the Google Advanced Data Analyt
 * Language: Python, SQL
 * Visualization: Tableau
 
-## :bar_chart: **Projects**
+## :bar_chart: **Project**
    [Python-Machine-Learning](https://github.com/sheyenenc3/Python-Machine-Learning)
    
-   [EDA](https://github.com/sheyenenc3/EDA)
-
-
+  
 
 ## :handshake: **How to Connect with Me**
    [LinkedIn profile](https://www.linkedin.com/in/sheyenencortez)
