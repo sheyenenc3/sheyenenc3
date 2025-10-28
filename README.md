@@ -18,7 +18,8 @@ Hello, my name is Sheyenen. I've recently earned the Google Advanced Data Analyt
 
 
 ## :handshake: **How to Connect with Me**
-   [www.linkedin.com/in/sheyenencortez](www.linkedin.com/in/sheyenencortez)
+   [LinkedIn profile](https://www.linkedin.com/in/sheyenencortez)
+   
 
 
 <!--
