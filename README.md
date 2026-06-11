@@ -1,16 +1,11 @@
  ## My Introduction 👋
 <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/0b28de46-309b-4d00-9d19-b084da8fc67b" />
 
-Hello, my name is Sheyenen. I've recently earned the Google Advanced Data Analytics Certificate and this program has equipped me for positions in data analytics and entry-level opportunities in data science. Previously, I was employed as a senior customer service rep for a medical and surgical supplies distributor for 8 and 1/2 years. I'm currently seeking an entry-level data analyst position. Please see the below skills that I've now acquired:
+Hello, I’m Sheyenen, a data‑driven problem solver with 8+ years of experience in senior customer service and healthcare operations, now building a career in data analysis. I specialize in transforming messy, real‑world operational challenges into clear insights through Python, SQL, and data visualization.
 
-* Proficiency in analyzing large datasets
-* Applying data-driven techniques
-* Constructing models to uncover insights
-* Machine learning
-* Predictive modeling
-* Statistical analysis
-* Language: Python, SQL
-* Visualization: Tableau
+My background in high‑volume customer service taught me how to investigate root causes, validate data across complex systems, and communicate findings clearly to both technical and non‑technical teams. Today, I bring that same precision and customer‑centric mindset into analytics: cleaning datasets, exploring patterns, building models, and creating dashboards that support smarter decisions.
+
+I’m currently expanding my portfolio with projects in predictive modeling.
 
 ## :bar_chart: **Project**
    [Python-Machine-Learning](https://github.com/sheyenenc3/Python-Machine-Learning)
