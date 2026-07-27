@@ -1,11 +1,13 @@
  ## My Introduction 👋
 <img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/0b28de46-309b-4d00-9d19-b084da8fc67b" />
 
-Hello, I’m Sheyenen, a data‑driven problem solver with 8+ years of experience in senior customer service and healthcare operations, now building a career in data analysis. I specialize in transforming messy, real‑world operational challenges into clear insights through Python, SQL, and data visualization.
+I’m a Data Analyst with over eight years of experience optimizing fast-moving healthcare supply chain operations. Today, I bridge the gap between complex datasets and day-to-day business decisions, translating raw operational data into clear, actionable insights. My background in supply chain customer service gives me a distinct advantage: I don't just build dashboards or run queries, I understand the real-world operational challenges, workflows, and customer needs behind the numbers. Whether I am diagnosing root causes, visualizing order trends, or cleaning data pipelines, I focus on driving efficiency and measurable impact and bring the following skills:
 
-My background in high‑volume customer service taught me how to investigate root causes, validate data across complex systems, and communicate findings clearly to both technical and non‑technical teams. Today, I bring that same precision and customer‑centric mindset into analytics: cleaning datasets, exploring patterns, building models, and creating dashboards that support smarter decisions.
+- **Data Analysis & Modeling:** Statistical Reasoning, Data Cleaning, Root Cause Analysis
+- **Tools & Platforms:** Python, SQL, Excel, Power BI / Tableau
+- **Domain Expertise:** Supply Chain Operations, ERP/CRM Systems, Cross-Functional Workflow Optimization
 
-I’m currently expanding my portfolio with projects in predictive modeling.
+When I'm not digging into data or optimizing processes, you can find me exploring new AI tools for assisting with analysis or reading a good book. I’m currently looking for Data Analyst or Supply Chain Analytics roles where I can help teams make smarter, data-driven choices. Let’s connect!
 
 ## :bar_chart: **Project**
    [Python-Machine-Learning](https://github.com/sheyenenc3/Python-Machine-Learning)
